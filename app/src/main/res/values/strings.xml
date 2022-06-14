@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinDataDemo</string>
+    <string name="livedata">LIVEDATA</string>
+    <string name="stateflow">STATEFLOW</string>
+    <string name="flow">FLOW</string>
+    <string name="shared_flow">SHARED FLOW</string>
+</resources>
